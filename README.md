@@ -74,7 +74,7 @@ Queria algo que:
 - Tivesse **animações sutis** e **transições fluidas**  
 - Mostrasse **boa organização** e uma **interface mais intuitiva**  
 
-Esta versão surgiu como oportunidade de aplicar tudo que aprendi e elevar o nível visual e técnico do meu trabalho.
+Esta versão surgiu como oportunidade de aplicar tudo que aprendi e elevar o nível visual e técnico do meu potifólio.
 
 ---
 
