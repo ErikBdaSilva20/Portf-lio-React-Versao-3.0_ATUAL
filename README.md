@@ -116,7 +116,3 @@ Cada versão conta uma parte da jornada — da primeira linha de código à busc
 📧 **E-mail:** erik.silvadesenvolvedor@outlook.com  
 💼 **LinkedIn:** [https://www.linkedin.com/in/erik-borgessilva20](https://www.linkedin.com/in/erik-borgessilva20)  
 🌐 **Portfólio online:** [https://erikbdsilva-hg.online](https://erikbdsilva-hg.online)
-
----
-
-> ✨ _“A melhor forma de mostrar o que você sabe é construir algo que reflita o que você se tornou.”_
