@@ -31,7 +31,7 @@ Após criar **duas versões anteriores**, desenvolvi uma **nova versão (3.0)** 
 
 ---
 
-## ⚙️ Tecnologias e Ferramentas
+## ⚙️ Tecnologias e Ferramentas:
 
 ### 💻 Front-end
 
