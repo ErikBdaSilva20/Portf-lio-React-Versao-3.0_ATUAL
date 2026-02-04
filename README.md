@@ -109,10 +109,12 @@ Durante a criação da v3.0, aprimorei:
 Este portfólio representa minha **evolução constante como desenvolvedor**.  
 Cada versão conta uma parte da jornada — da primeira linha de código à busca por interfaces refinadas e experiências mais fluidas.
 
----
+C
 
 ## 📬 Contato
 
 📧 **E-mail:** erik.silvadesenvolvedor@outlook.com  
 💼 **LinkedIn:** [https://www.linkedin.com/in/erik-borgessilva20](https://www.linkedin.com/in/erik-borgessilva20)  
 🌐 **Portfólio online:** [https://erikbdsilva-hg.online](https://erikbdsilva-hg.online)
+
+---
