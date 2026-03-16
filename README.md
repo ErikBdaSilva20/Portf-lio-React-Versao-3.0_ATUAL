@@ -1,120 +1,161 @@
-# 💼 Portfólio React — Evolução e Documentação
+<div align="center">
 
-> “Um portfólio não é só um site — é o reflexo da jornada de quem o construiu.”
+  <img src="public/TitleIcon.svg" alt="Erik.dev Logo" width="72" />
 
----
+# ERIK.DEV — Portfólio Pessoal
 
-## 🪄 Visão Geral
+![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-6-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled_Components-6-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-12-black?style=for-the-badge&logo=framer&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES2024-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-Este repositório documenta o processo de evolução do meu **portfólio como desenvolvedor Front-end**.  
-Após criar **duas versões anteriores**, desenvolvi uma **nova versão (3.0)** com foco em **modernidade, desempenho, identidade visual e boas práticas de código**.
+**Portfólio profissional com experiência cinematográfica, design system consistente e animações modernas.**
 
-🔗 **Portfólio online:** [https://erikbdsilva-hg.online](https://erikbdsilva-hg.online)  
-🧠 **Status:** Concluído e hospedado na HostGator (passará por algumas alterações futuras)
+[🌐 Ver ao vivo](https://erikbdsilva-hg.online/) · [📄 Currículo](public/curriculo-ErikBorges-FrontEnd.pdf) · [💼 LinkedIn](https://www.linkedin.com/in/erik-borgessilva20) · [🐙 GitHub](https://github.com/ErikBdaSilva20)
 
----
-
-## 🧱 Estrutura do Repositório
-
-> 📁 Este repositório contém **apenas documentação** do projeto.  
-> O código-fonte completo está hospedado separadamente por questões de segurança e privacidade.
+</div>
 
 ---
 
-## 🧩 Linha do Tempo do Portfólio
+## ✨ Destaques
 
-| Versão           | Período           | Principais Tecnologias     | Foco Principal                  |
-| ---------------- | ----------------- | -------------------------- | ------------------------------- |
-| **v1.0**         | Início da jornada | React, Styled Components   | Aprendizado em estágio inicial  |
-| **v2.0**         | Evolução no React | React, Styled Components   | Estruturação e componentização  |
-| **v3.0 (atual)** | Versão moderna    | React, Design por IA, Vite | Performance, estética e fluidez |
-
----
-
-## ⚙️ Tecnologias e Ferramentas:
-
-### 💻 Front-end
-
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)  
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)](https://developer.mozilla.org/docs/Web/JavaScript)  
-[![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://styled-components.com/)  
-[![React Carousel](https://img.shields.io/badge/React--Carousel-61DAFB?style=for-the-badge&logo=react&logoColor=20232A)](https://www.npmjs.com/package/react-carousel)  
-[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://vitejs.dev/)
-
-### 🛠️ Outras ferramentas
-
-[![HostGator](https://img.shields.io/badge/HostGator-FF6C00?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://www.hostgator.com/)  
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+| Feature                           | Descrição                                                            |
+| --------------------------------- | -------------------------------------------------------------------- |
+| 🎬 **Animações Cinematográficas** | Transições com Framer Motion — zoom out na hero, fade+blur por seção |
+| 📊 **ScrollProgressBar**          | Barra de progresso com spring physics e gradiente                    |
+| 🌊 **Scroll com Easing**          | `easeInOutCubic` customizado — sensação de câmera se movendo         |
+| 🎨 **Design System**              | Tokens de cor, tipografia e espaçamento centralizados em `theme.js`  |
+| 📱 **Mobile Premium**             | `100svh`, safe-area-inset, touch targets ≥48px                       |
+| ⚡ **Performance**                | Code splitting, lazy loading, grid otimizado via pseudo-elemento     |
+| 🔍 **SEO**                        | Meta tags, Open Graph, Twitter Card                                  |
 
 ---
 
-## 🧠 Comparativo entre versões
+## 🛠️ Stack Tecnológica
 
-| Aspecto               | Versão 2.0                                | Versão 3.0 (Atual)                                       |
-| --------------------- | ----------------------------------------- | -------------------------------------------------------- |
-| **Layout**            | Animações, design confuso                 | Totalmente redesenhado com transições suaves e atraentes |
-| **Código**            | Pouca componentização                     | Código modular, organizado e reutilizável                |
-| **Responsividade**    | Responsivo                                | Responsivo                                               |
-| **Performance**       | Build com Vite somente                    | Build com Vite, otimização de componentes pesados        |
-| **Estilo**            | Cores exageradas e sem padronização       | Cores suaves, escuras, prezando a visualização           |
-| **Identidade Visual** | Genérica e baseada em outros portfólios  | Baseado em um estilo futurista único gerado por IA       |
+```
+Frontend
+├── React 19           — Interface de usuário
+├── Vite 6             — Bundler e dev server ultrarrápido
+├── Styled Components  — CSS-in-JS com Design System
+├── Framer Motion 12   — Animações declarativas e spring physics
+├── MUI Icons          — Ícones de interface
+└── JavaScript ES2024  — Lógica da aplicação
 
----
+Integrações
+├── React Typewriter   — Efeito de digitação na hero
+└── React Multi Carousel — Carrosséis de projetos e skills
 
-## 🧩 Motivação da Nova Versão
-
-Após as duas primeiras versões, percebi que meu portfólio não refletia minha evolução como desenvolvedor.  
-As cores eram exageradas, a organização e funcionalidades não estavam coerentes para um portfólio.  
-Decidi então usar **inteligência artificial** para criar um estilo único.
-
-Queria algo que:  
-
-- Transmitisse mais **profissionalismo e identidade visual**  
-- Tivesse **animações sutis** e **transições fluidas**  
-- Mostrasse **boa organização** e uma **interface mais intuitiva**  
-
-Esta versão surgiu como oportunidade de aplicar tudo que aprendi e elevar o nível visual e técnico do meu potifólio.
+Ferramentas
+├── ESLint + Prettier  — Qualidade e formatação de código
+└── pnpm               — Gerenciador de pacotes rápido
+```
 
 ---
 
-## 🔍 Aprendizados e Evolução
+## 📁 Estrutura do Projeto
 
-Durante a criação da v3.0, aprimorei:  
+```
+src/
+├── assets/                   # Imagens e recursos estáticos
+├── Accessories/               # Componentes decorativos (Circle, WhatsApp, Code Snippets)
+│   ├── circleIcon.jsx
+│   ├── whatsAppIcon.jsx
+│   ├── semiSquareCorner.jsx
+│   ├── toasterEmailSend.jsx
+│   └── CodeSnippets/
+├── components/                # Componentes reutilizáveis
+│   ├── AnimatedSection/       # 🆕 Wrapper de animações por seção
+│   ├── ScrollProgressBar/     # 🆕 Barra de progresso de scroll
+│   ├── BioCard/               # Seção hero com dados do dev
+│   ├── Header/                # Navbar fixa com blur dinâmico
+│   ├── SkillsCards/           # Carrossel de habilidades
+│   ├── CarouselProjects/      # Galeria de projetos
+│   ├── ContactMe/             # redes sociais
+│   ├── Footer/                # Rodapé com links rápidos
+│   ├── NavigateToCertificates/ # Carrossel de certificados
+│   ├── AboutMeAndCertificates/ # Seção "Sobre mim"
+│   ├── TemporalJourneyInfos/  # Timeline de formação
+│   └── ToolsAndProficiency/   # Carrossel de ferramentas
+├── pages/Home/                # Página principal — monta todas as seções
+├── styles/                    # 🆕 Design System
+│   ├── theme.js               # Tokens: cores, fontes, espaçamento, breakpoints
+│   ├── animations.js          # Keyframes compartilhados
+│   └── globalstyles.js        # Reset e estilos globais
+└── utils/                     # Funções utilitárias puras
+    ├── scrollToSection.js     # Scroll cinematográfico com easing
+    ├── lazyRender.jsx         # IntersectionObserver helper
+    ├── colors.js              # Paleta de cores (wrapper do theme)
+    └── Arrow.jsx              # Componente de seta utilitário
+```
+---
 
-- Componentização eficiente e reutilizável  
-- Organização de pastas e arquitetura React  
-- Responsividade  
-- Uso de animações com **React Carousel**, **React TypeWriter** e outras bibliotecas  
-- Controle de estado, lazy loading e uso de **useEffect**  
-- Boas práticas com **Styled Components** e **variáveis globais**  
+## 🎨 Design System
+
+O projeto usa um Design System centralizado em `src/styles/theme.js`:
+
+```js
+// Cores
+theme.colors.primary; // rgba(0, 247, 255, 1) — cyan principal
+theme.colors.accent; // rgba(186, 133, 255, 1) — roxo
+
+// Tipografia
+theme.fonts.heading; // 'Orbitron' — títulos tech
+theme.fonts.body; // 'Poppins' — corpo de texto
+
+// Media Queries
+mq.mobile; // @media (max-width: 480px)
+mq.tablet; // @media (max-width: 768px)
+mq.laptop; // @media (max-width: 1024px)
+```
 
 ---
 
-## 🖼️ Capturas de Tela
+## 📈 Melhorias — v2.0 (Março 2026)
 
-> Visualize rapidamente as principais seções do portfólio:
+```
+✅ Design System com tokens centralizados (theme.js)
+✅ Animações de entrada com Framer Motion (zoom, fade, slide, blur)
+✅ Scroll cinematográfico com easeInOutCubic
+✅ ScrollProgressBar com spring physics
+✅ Header com bg/blur dinâmicos via useScroll
+✅ Menu mobile com slide suave e 100svh (iOS safe area)
+✅ Tipografia fluida com clamp() — sem breakpoints de texto
+✅ Breakpoints unificados via mq helper
+✅ Code splitting por vendor chunks (Framer, MUI, React)
+✅ Grid de fundo via pseudo-elemento (melhor performance)
+✅ Correção do font-style: italic global (bug crítico)
+✅ Correção do valor inválido em colors.darkCyan
+✅ Remoção de exports duplicados no barrel index.js
+✅ SEO completo: meta tags, Open Graph, Twitter Card
+✅ WhatsApp com safe-area-inset para iPhone
+✅ Touch targets mínimos de 48px no mobile
+✅ Scrollbar customizada com tema
+✅ README.md profissional
+```
 
-| Página        | Preview                                      |
-| ------------- | -------------------------------------------- |
-| **Home**      | ![Home](./images/Home.png)                   |
-| **Sobre mim** | ![Sobre](./images/Sobre.png)                 |
-| **Projetos**  | ![Projetos](./images/Projetos.png)          |
-| **Contato**   | ![Contato](./images/Contato.png)            |
+---
+
+## 📞 Contato
+
+<div align="center">
+
+📧 [erik.silvadesenvolvedor@gmail.com](mailto:erik.silvadesenvolvedor@gmail.com)
+
+📱 [+55 (54) 99956-6625](https://wa.me/54999566625)
+
+💼 [LinkedIn](https://www.linkedin.com/in/erik-borgessilva20)
+
+🐙 [GitHub](https://github.com/ErikBdaSilva20)
+
+📍 Rio Grande do Sul — Brasil
+
+</div>
 
 ---
 
-## 🧾 Conclusão
-
-Este portfólio representa minha **evolução constante como desenvolvedor**.  
-Cada versão conta uma parte da jornada — da primeira linha de código à busca por interfaces refinadas e experiências mais fluidas.
-
-C
-
-## 📬 Contato
-
-📧 **E-mail:** erik.silvadesenvolvedor@outlook.com  
-💼 **LinkedIn:** [https://www.linkedin.com/in/erik-borgessilva20](https://www.linkedin.com/in/erik-borgessilva20)  
-🌐 **Portfólio online:** [https://erikbdsilva-hg.online](https://erikbdsilva-hg.online)
-
----
+<div align="center">
+  <p>Feito por <strong>Erik Borges da Silva</strong></p>
+  <p><em>© 2025 — Open to work and coding ⚡</em></p>
+</div>
