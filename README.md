@@ -1,6 +1,3 @@
-<div align="center">
-
-  <img src="public/TitleIcon.svg" alt="Erik.dev Logo" width="72" />
 
 # ERIK.DEV — Portfólio Pessoal
 
@@ -151,7 +148,6 @@ mq.laptop; // @media (max-width: 1024px)
 
 📍 Rio Grande do Sul — Brasil
 
-</div>
 
 ---
 
