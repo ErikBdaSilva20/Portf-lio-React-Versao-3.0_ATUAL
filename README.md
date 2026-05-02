@@ -9,7 +9,7 @@
 
 **Portfólio profissional com experiência cinematográfica, design system consistente e animações modernas.**
 
-[🌐 Ver ao vivo](https://erikbdsilva-hg.online/) · [📄 Currículo](public/curriculo-ErikBorges-FrontEnd.pdf) · [💼 LinkedIn](https://www.linkedin.com/in/erik-borgessilva20) · [🐙 GitHub](https://github.com/ErikBdaSilva20)
+[🌐 Ver ao vivo](https://erikbdsilva-hg-online.vercel.app/) · [📄 Currículo](public/curriculo-ErikBorges-FrontEnd.pdf) · [💼 LinkedIn](https://www.linkedin.com/in/erik-borgessilva20) · [🐙 GitHub](https://github.com/ErikBdaSilva20)
 
 </div>
 
